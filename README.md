@@ -1,1 +1,1 @@
-# puppet-profile
+# profile
